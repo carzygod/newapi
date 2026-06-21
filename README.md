@@ -177,6 +177,12 @@ docker run --name new-api -d --restart always \
 | ❓ FAQ | [FAQ](https://docs.newapi.pro/en/docs/support/faq) |
 | 💬 Community Interaction | [Communication Channels](https://docs.newapi.pro/en/docs/support/community-interaction) |
 
+**Maintained fork channel notes:**
+
+| Channel | Notes |
+|---|---|
+| QIANWEN-WEB-01 / HappyHorse | [Qianwen HappyHorse Channel](./docs/channel/qianwen-happyhorse.md) |
+
 ---
 
 ## ✨ Key Features

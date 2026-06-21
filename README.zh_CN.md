@@ -177,6 +177,12 @@ docker run --name new-api -d --restart always \
 | ❓ 常见问题 | [FAQ](https://docs.newapi.pro/zh/docs/support/faq) |
 | 💬 社区交流 | [交流渠道](https://docs.newapi.pro/zh/docs/support/community-interaction) |
 
+**维护分支渠道说明：**
+
+| 渠道 | 说明 |
+|---|---|
+| QIANWEN-WEB-01 / HappyHorse | [千问 HappyHorse 渠道](./docs/channel/qianwen-happyhorse.md) |
+
 ---
 
 ## ✨ 主要特性
